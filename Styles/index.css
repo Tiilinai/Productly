@@ -1,5 +1,10 @@
-/* Navigation bar*/
-
+/* NAVIGATION BAR */
+body {
+    position: relative;
+    width: 1400px;
+    height: 3843px;
+    background: #FFFFFF;
+}
 .navigation {
     display: flex;
     flex-direction: row;
@@ -113,14 +118,16 @@ button.sign-up:hover {
 }
 
 
-/* Header start */
+/* HEADER START */
 
 .header {
     position: absolute;
     width: 1126px;
     height: 496px;
-    margin-left: 145px;
+    margin-left: 149px;
+    margin-right: 129px;
     margin-top: 128px;
+    margin-bottom: 110px;
 }
 
 div.header-left {
@@ -212,8 +219,7 @@ button.videolink {
     height: 20px;
 }
 
-
-.section1 {
+section.image-jumping {
     display: inline-block;
 }
 
@@ -225,3 +231,124 @@ img.jumping_people {
     margin-top: 128px;
 
 }
+
+/* Main - WE DESIGN TOOLS */
+
+div.test-segment {
+    position: absolute;
+    width: 2211px;
+    height: 543px;
+    margin-left: -406px;
+    margin-top: 734px;
+    padding-top: 110px;
+
+}
+h2.design-tools {
+    position: absolute;
+    width: 539px;
+    height: 108px;
+    left: 990px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+    color: #2F281E;
+}
+
+div.cards {
+    position: absolute;
+    width: 1095px;
+    height: 204px;
+    left: 161px;
+    top: 162px;
+}
+
+div.card__1 {
+    position: absolute;
+    width: 240px;
+    height: 178px;
+    left: 567px;
+    top: 162px;
+}
+
+div.card__2 {
+    position: absolute;
+    width: 240px;
+    height: 178px;
+    left: 853px;
+    top: 162px;
+}
+
+div.card__3 {
+    position: absolute;
+    width: 240px;
+    height: 178px;
+    left: 1138px;
+    top: 162px;
+}
+
+div.card__4 {
+    position: absolute;
+    width: 240px;
+    height: 204px;
+    margin-left: 1422px;
+    margin-top: 162px;
+}
+
+h6 /*Test headers*/ { 
+    position: absolute;
+    height: 33px;
+    left: 0px;
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #2F281E;
+}
+
+img.icons {
+    position: absolute;
+    width: 51px;
+    height: 50px;
+}
+
+.tests-info {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    margin-top: 16px;
+    bottom: 0%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+button.sign-up-now {
+    position: absolute;
+    margin-left: 1180px;
+    margin-top: 450px;
+    width: 175px;
+    height: 53px;
+    background-color: #FF9900;
+    border: #FF9900;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+color: #FFFFFF;
+}
+/* Main - DESIGN PROFESSIONALS */z
