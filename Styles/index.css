@@ -347,8 +347,158 @@ button.sign-up-now {
     font-size: 16px;
     line-height: 24px;
     /* identical to box height */
-
-
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 /* Main - DESIGN PROFESSIONALS */
+
+.design-segment {
+    position: absolute;
+    display: inline-block;
+    width: 1110px;
+    height: 574px;
+    left: 145px;
+    margin-top: 1423px;
+    padding-top: 100px;
+}
+
+.top-design-text /* Effortless validation */ {
+    position: absolute;
+    height: 24px;
+    left: 150px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #544837;
+}
+
+h3 /* DESIGN PROFESSIONALS */ {
+    position: absolute;
+    height: 54px;
+    left: 150px;
+    padding-top: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    color: #2F281E;
+}
+
+.design-main-info__1 {
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 103px;
+    padding-top: 10px;
+    width: 486px;
+    height: 78px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+.design-header__1 {
+    position: absolute;
+    height: 26px;
+    margin-left: 150px;
+    margin-top: 211px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    color: #2F281E;
+    
+
+}
+
+.design-main-info__2 {
+    position: absolute;
+    margin-top: 249px;
+    margin-left: 150px;
+    width: 486px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+.design-header__2 {
+    position: absolute;
+    height: 26px;
+    margin-left: 150px;
+    margin-top: 326px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    color: #2F281E;
+}
+
+.design-main-info__3 {
+    position: absolute;
+    margin-top: 364px;
+    margin-left: 150px;
+    width: 486px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+.design-header__3 {
+
+    position: absolute;
+    height: 26px;
+    margin-left: 150px;
+    margin-top: 441px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    color: #2F281E;
+}
+
+.design-main-info__4 {
+    position: absolute;
+    margin-top: 479px;
+    margin-left: 150px;
+    width: 486px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837; 
+}
+
+section.image-communicating {
+    display: inline-block;
+}
+
+img.man-phone {
+    position: absolute;
+    width: 520px;
+    height: 574px;
+    left: 735px;
+    margin-top: 0px;
+}
