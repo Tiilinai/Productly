@@ -11,8 +11,8 @@ body {
     align-items: flex-start;
     position: absolute;
     width: 100%;
-    min-width: 1398px;
-    min-height: 76px;
+    width: 1398px;
+    height: 76px;
     margin-left: 0px;
     margin-top: 20px;
     padding: 15px 144px;
@@ -453,7 +453,7 @@ h3 /* DESIGN PROFESSIONALS */ {
     margin-top: 364px;
     margin-left: 150px;
     width: 486px;
-    font-family: Poppins;
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -501,4 +501,169 @@ img.man-phone {
     height: 574px;
     left: 735px;
     margin-top: 0px;
+}
+
+/* PRODUCT MANAGERS */ 
+
+.product-segment {
+    position: absolute;
+    display: inline-block;
+    width: 1121px;
+    height: 521px;
+    margin-left: 150px;
+    margin-top: 101px;
+    padding-top: 101px;
+    padding-left: 145px;
+}
+
+section.image-computer {
+    display: inline-block;
+}
+
+img.man-computer {
+    position: absolute;
+    width: 535px;
+    height: 521px;
+    top: 2072px;
+}
+
+div.info__product {
+    display: inline-block;
+    position: absolute;
+    width: 486px;
+    height: 427px;
+    left: 779px;
+    top: 2121px;
+}
+
+.top-text-product /* Easier decision making */ {
+    position: absolute;
+    height: 24px;
+    left: 0%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #544837;
+}
+
+h4 /* Product Managers */ {
+    position: absolute;
+    height: 54px;
+    left: 0%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    color: #2F281E;
+}
+
+.main-info-product {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 24.12%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+div.info-product__1 {
+    position: absolute;
+    display: inline-block;
+    width: 430px;
+    left: 772px;
+    margin-top: 2250px;
+
+}
+
+img.tick__1 {
+    position: absolute;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin-left: 0px;
+}
+
+.info-tick-1 {
+    position: absolute;
+    margin-left: 65px;
+    margin-top: -9px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+div.info-product__2 {
+    position: absolute;
+    width: 450px;
+    height: 52px;
+    margin-left: 627px;
+    margin-top: 2330px;
+}
+
+img.tick__2 {
+    position: absolute;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin-left: 0px;
+    margin-top: -17px;
+}
+
+.info-tick-2 {
+    position: absolute;
+    margin-left: 65px;
+    margin-top: 293px;
+    bottom: 19.2%;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+div.info-product__3 {
+    position: absolute;
+    display: inline-block;
+    width: 450px;
+    height: 52px;
+    left: 779px;
+    margin-top: 2415px;
+}
+
+img.tick__3 {
+    position: absolute;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    margin-left: -6px;
+}
+
+.info-tick-3 {
+    position: absolute;
+    width: 385px;
+    margin-left: 59px;
+    margin-top: -9px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
 }
