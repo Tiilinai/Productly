@@ -667,3 +667,45 @@ img.tick__3 {
     /* or 162% */
     color: #544837;
 }
+/* MARKETERS */ 
+
+div.marketers {
+    position: absolute;
+    display: inline-block;
+    min-width: 1110px;
+    min-height: 609px;
+    margin-left: 165px;
+    margin-top: 2697px;
+    padding-top: 143px;
+}
+
+.marketers-title {
+    position: absolute;
+    width: 486px;
+    height: 181px;
+    left: 165px;
+}
+
+.marketers-main {
+    position: absolute;
+    height: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #544837;
+}
+
+h5 /* Marketers */ {
+    position: absolute;
+    height: 54px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    color: #2F281E;
+}
